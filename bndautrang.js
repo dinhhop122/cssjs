@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/6B1bgH' target='_blank'><img src='http://www.samviethan.com/upload/hinhanh/695049.png' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Mua Tại Nhân Sâm Việt Hàn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/6B1bgH' target='_blank'><img src='http://www.samviethan.com/upload/hinhanh/695049.png' width='500px'/><br/>Khách hàng nhớ đến </a>. Mua Tại Nhân Sâm Việt Hàn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
